@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Payload\\Repos\\Mal_Exe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D3402E-EA96-420C-A262-510FA839CD29}|Malicous Exe\\Malicous Exe.vcxproj|D:\\Payload\\Repos\\Mal_Exe\\Malicous Exe\\Malicous Exe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7D3402E-EA96-420C-A262-510FA839CD29}|Malicous Exe\\Malicous Exe.vcxproj|solutionrelative:Malicous Exe\\Malicous Exe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D3402E-EA96-420C-A262-510FA839CD29}|Malicous Exe\\Malicous Exe.vcxproj|D:\\Payload\\Repos\\Mal_Exe\\Malicous Exe\\Malicous Exe_og.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7D3402E-EA96-420C-A262-510FA839CD29}|Malicous Exe\\Malicous Exe.vcxproj|solutionrelative:Malicous Exe\\Malicous Exe_og.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Malicous Exe.cpp",
+              "DocumentMoniker": "D:\\Payload\\Repos\\Mal_Exe\\Malicous Exe\\Malicous Exe.cpp",
+              "RelativeDocumentMoniker": "Malicous Exe\\Malicous Exe.cpp",
+              "ToolTip": "D:\\Payload\\Repos\\Mal_Exe\\Malicous Exe\\Malicous Exe.cpp",
+              "RelativeToolTip": "Malicous Exe\\Malicous Exe.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T12:50:17.636Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Malicous Exe_og.cpp",
+              "DocumentMoniker": "D:\\Payload\\Repos\\Mal_Exe\\Malicous Exe\\Malicous Exe_og.cpp",
+              "RelativeDocumentMoniker": "Malicous Exe\\Malicous Exe_og.cpp",
+              "ToolTip": "D:\\Payload\\Repos\\Mal_Exe\\Malicous Exe\\Malicous Exe_og.cpp",
+              "RelativeToolTip": "Malicous Exe\\Malicous Exe_og.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T12:30:58.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
